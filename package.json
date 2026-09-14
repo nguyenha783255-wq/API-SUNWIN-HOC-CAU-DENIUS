@@ -1,0 +1,16 @@
+{
+  "name": "denius-persistent-experience-ai",
+  "version": "3.0.0",
+  "description": "DENIUS Persistent Experience AI TX API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "pg": "^8.16.3"
+  }
+}
